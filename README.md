@@ -1,6 +1,6 @@
 # validationInUserManagement
 <!-- Headings -->
-# Restaurant
+# Validation
 <!--UL-->
 ## FrameWork And Language Used
 * In this project i am using spring Framework and Java Laguage Used.
